@@ -1,10 +1,10 @@
 Pomodoro Timer – Tkinter App
 
 Project Layout:
-<img src="result_1/promodora.png">
+<img src="result_1/promodora.png" height=300 widith=300>
 
 OutPut Result:
-<img src="result_1/promodora2.png">
+<img src="result_1/promodora2.png" height=300 widith=300>
 
 
 This project is a simple Pomodoro Timer made using Python Tkinter. It helps you stay focused by dividing time into work sessions and break breaks.
